@@ -1,11 +1,15 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- * Returm: 0 (success)
+ * main - Print all the numbers of base 16 in lowercase.
+ *
+ *
+ * Return: Always 0 (success)
  */
+
 int main(void)
 {
+	/* print all numbers of base 16 & lowercase */
 	int num;
 	char letter;
 
