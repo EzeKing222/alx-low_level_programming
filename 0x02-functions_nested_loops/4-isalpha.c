@@ -1,4 +1,4 @@
-#inlude "main.h"
+#include "main.h"
 
 /**
  * _isalpha - Returns 1 if c is a letter, lowercase or uppercase
