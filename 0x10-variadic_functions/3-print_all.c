@@ -1,4 +1,4 @@
-#include "variadic_function.h"
+#include "variadic_functions.h"
 
 /**
  * print_all -prints anything
@@ -43,4 +43,5 @@ void print_all(const char * const format, ...)
 			i++;
 		}
 	}
+	printf("\n");
 }
