@@ -4,6 +4,7 @@
 
 #define _POXIL_C_SOURCE 20089L
 #include <fcntl.h>
+#include <stdlib.h>
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <unistd.h>
